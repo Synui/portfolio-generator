@@ -15,10 +15,6 @@ const generatePage = (name, github) => {
     </body>
     </html>
     `;
-feature/questions
-  };
-=======
   };
 
   module.exports = generatePage;
-develop
